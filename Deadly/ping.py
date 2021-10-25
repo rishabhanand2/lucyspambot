@@ -43,7 +43,7 @@ if UstaD:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -55,7 +55,7 @@ if UstaD2:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -68,7 +68,7 @@ if UstaD3:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -81,7 +81,7 @@ if UstaD4:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -94,7 +94,7 @@ if UstaD5:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -107,7 +107,7 @@ if UstaD6:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -120,7 +120,7 @@ if UstaD7:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -133,7 +133,7 @@ if UstaD8:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -146,7 +146,7 @@ if UstaD9:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
 
@@ -159,6 +159,6 @@ if UstaD10:
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
-                  await event.edit(f"🤖 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
+                  await event.edit(f"🤖LUCY 𝗣𝗼𝗻𝗴!\n`{ms}` 𝗺𝘀")        
 else:
     pass
