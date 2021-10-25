@@ -1,7 +1,7 @@
 {
-    "name": "Spam Bot 2.0",
-    "description": "Best Spamming Bots",
-    "logo": "https://telegra.ph/file/8626f33867fc155eaa404.jpg",
+    "name": "lucy Spam Bot ",
+    "description": "lucy Best Spamming Bots creator @mafiarishabh",
+    "logo": "https://telegra.ph/file/1aa05b6f356b259e7a0d6.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,9 +9,9 @@
         "Ustad-op",
         "SpamBots"
     ],
-    "repository": "https://t.me/USTAD_OP",
-    "website": "https://t.me/USTAD_OP",
-    "success_url": "https://t.me/USTAD_OP",
+    "repository": "https://t.me/Mafiarishabh",
+    "website": "https://t.me/Mafiarishabh",
+    "success_url": "https://t.me/Mafiarishabh",
     "env": {
       "BOT_TOKEN": {
         "description": "Bot token, get it from @BotFather",
